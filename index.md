@@ -2,7 +2,8 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Analisis kuwalitas pelayanan perpustakaan](ebook/Analisis kuwalitas pelayanan perpustakaan.pdf) – Putu Ahara Mahoni dan Triningsih (2023) 
-2. Contoh buku lain
+1. [Aneh?](ebook/Aneh.pdf) – Sonal Gupta Vaswani (2024) 
+2. [Aum Aum Dinosaurus!](ebook/Aum%20Aum%20Dinosaurus!.pdf) - Lavanya Naidu (2024)
 ---
-Powered by GitHub Pages
+Nayla Sekar Maulida
+13040124140152
