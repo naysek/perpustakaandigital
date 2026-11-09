@@ -16,3 +16,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 ---
 Nayla Sekar Maulida
 13040124140152
+Kelas D
