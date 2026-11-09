@@ -13,6 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Tarik Talinya!](ebook/Tarik%20Talinya!.pdf) - Humayra Kabir (2024)
 10. [Transportasi](ebook/Transportasi.pdf) - Bookbot (2024)
 11. [Ringkasan UGC Evolusi dan Transformasi Perpustakaan](ebook/Ringkasan%20UGC%20Evolusi%20dan%20Transformasi%20Perpustakaan.pdf) - Nayla sekar maulida (2026)
+    
 ---
 Nayla Sekar Maulida
 13040124140152
