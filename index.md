@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Aum Aum Dinosaurus!](ebook/Dinosaurus.pdf) - Lavanya Naidu (2024)
 3. [Jempol Anaya](ebook/Jempol%20Anaya.pdf) - Ruchi Shah (2024)
 4. [Kemana Monster Sungai Mengembara](ebook/Ke%20Mana%20Monster%20Sungai%20Mengembara.pdf) - Khoem La (2024)
-5. [Lori Dori Menyalin](ebook/Lori%20Dori%20menyalin.pdf) - Sonia Dearling (2024)
+5. [Analisis kuwalitas pelayanan perpustakaan](ebook/Analisis%20kuwalitas%20pelayanan%20perpustakaan.pdf) - Putu Ahara Mahoni dan Triningsih (2023)
 6. [Monster Kakak](ebook/Monster%20Kakak.pdf) - Sunaina Ceolho (2024)
 7. [Nyanyian Hujan](ebook/Nyanyian%20Hujan.pdf) - Mukesh Tamrakar (2024)
 8. [Serigala Peniru dan Keluarga Kambing](ebook/Serigala_Peniru_dan_Keluarga_Kambing.pdf) - Minjung Yoo (2021)
